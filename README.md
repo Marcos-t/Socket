@@ -1,6 +1,7 @@
 # Socket
 
-__Socket com o objetivo de ajudar em uma ordenagem de matricula__
+__Socket com o objetivo de ajudar em uma ordenagem de matricula tanto quanto o número de faltas, a matéria, o nome do professor, nome do aluno, e se caso o aluno
+foi reprovado por falta ou não__
  
 ## Integrantes
 
