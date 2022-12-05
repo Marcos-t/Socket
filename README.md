@@ -1,6 +1,6 @@
 # Socket
 
-__  Socket com o objetivo de ajudar em uma ordenagem de matricula  __
+__Socket com o objetivo de ajudar em uma ordenagem de matricula__
  
 ## Integrantes
 
